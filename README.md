@@ -32,7 +32,7 @@ A Python-based implementation of the classic Tic Tac Toe game using Minimax algo
 - Recursively evaluates all possible moves.
   
 - **Maximizing for AI (0):** Chooses moves that maximize the score.
-- **Minimizig for Player (X):** Chooses moves that minimize the AI's score.
+- **Minimizing for Player (X):** Chooses moves that minimize the AI's score.
 - Considers all possible game states until the game ends.
 
 ## Example Game
