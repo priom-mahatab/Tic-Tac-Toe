@@ -56,11 +56,11 @@ Current Board:
 
 AI's Move (O):
 Current Board:
-  X | X |  
+  X | X | O 
  ---+---+---
     | O |  
  ---+---+---
-    |   | O
+    |   | 
 ```
 
 ## How to Run
